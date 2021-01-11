@@ -1,0 +1,57 @@
+/* index page */
+
+#yt-btn {
+    margin-bottom: 1rem;
+  }
+
+  #yt-btn:hover {
+    border: 0.1rem solid rgb(255, 115, 0);
+  }
+
+  #pl-btn:hover {
+    border: 0.1rem solid rgb(0, 132, 255);
+  }
+
+  /* login|signup page */
+
+  a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.active_b {
+    border-bottom: 2px solid #FF5733;
+}
+
+.signup_h:hover{
+    color: #FF5733;
+}
+
+.login_h:hover{
+    color: #FF5733;
+}
+
+.login_h,.signup_h{
+    color: black;
+    font-family: 'Merriweather', serif;
+}
+
+.active_h{
+    color: #FF5733;
+}
+
+.btn_clr{
+    background-color: #FF5733;
+    color: white;
+    font-weight: bolder;
+}
+
+/* login button */
+.btn_l{
+    background-color: #FF5733;
+}
+
+
